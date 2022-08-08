@@ -1,0 +1,11 @@
+package br.com.projetos.padroes.gof;
+
+/**
+ * Singleton "Preguiçoso"
+ * @author Victor
+ *
+ */
+
+public class SingletonLazy {
+
+}

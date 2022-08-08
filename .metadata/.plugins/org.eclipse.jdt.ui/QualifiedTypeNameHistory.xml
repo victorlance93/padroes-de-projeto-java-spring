@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.gof.SingletonLazy"/>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.gof.SingletonEager"/>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.gof.SingletonLazyHolder"/>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.strategy.ComportamentoNormal"/>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.strategy.ComportamentoDefensivo"/>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.strategy.ComportamentoAgressivo"/>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.strategy.Robo"/>
+    <fullyQualifiedTypeName name="subsistema1.crm.CrmService"/>
+    <fullyQualifiedTypeName name="subsistema2.cep.CepApi"/>
+    <fullyQualifiedTypeName name="br.com.projetos.padroes.facade.Facade"/>
+</qualifiedTypeNameHistroy>

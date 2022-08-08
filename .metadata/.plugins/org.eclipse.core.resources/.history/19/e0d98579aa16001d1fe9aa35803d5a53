@@ -1,0 +1,15 @@
+package subsistema2.cep;
+
+import br.com.projetos.padroes.singleton.SingletonEager;
+
+
+public class CepApi {
+		public static CepApi instacia = new CepApi();
+	private CepApi() {
+		super();
+	}
+	
+	public static CepApi getInstacia() {
+		return  instacia;
+	}
+}

@@ -1,0 +1,24 @@
+package br.com.projetos.padroes.gof;
+
+/**
+ * Singleton "Preguiçoso"
+ * @author Victor
+ *
+ */
+
+public class SingletonEager {
+
+	private static SingletonEager instacia;
+	
+	private SingletonEager() {
+		super();
+	}
+	
+	public static SingletonEager getInstacia() {
+		if(instacia == null) {
+			instacia = new SingletonEager();
+		}
+		return instacia;
+	}
+	
+}

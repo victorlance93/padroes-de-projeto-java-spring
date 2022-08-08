@@ -1,0 +1,6 @@
+package br.com.projetos.padroes.strategy;
+
+public interface Comportamento {
+	void mover();
+
+}

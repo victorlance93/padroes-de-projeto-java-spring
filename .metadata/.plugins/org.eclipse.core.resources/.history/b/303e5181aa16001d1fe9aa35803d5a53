@@ -1,0 +1,13 @@
+package subsistema2.cep;
+
+
+public class CepApi {
+		public static CepApi instacia = new CepApi();
+	private CepApi() {
+		super();
+	}
+	
+	public static CepApi getInstacia() {
+		return  instacia;
+	}
+}

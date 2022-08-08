@@ -1,0 +1,15 @@
+package br.com.projetos.padroes.gof;
+
+public class Test {
+
+	public static void main(String[] args) {
+		SingletonLazy lazy =  SingletonLazy.getInstacia();
+		System.out.println(lazy);
+		SingletonLazy lazy =  SingletonLazy.getInstacia();
+		System.out.println(lazy);
+		SingletonLazy lazy =  SingletonLazy.getInstacia();
+		System.out.println(lazy);
+		
+	}
+
+}
